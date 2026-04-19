@@ -9,14 +9,14 @@ html {
     scroll-behavior: smooth;
 }
 
-/* Body */
+
 body {
     font-family: 'Poppins', sans-serif;
     background: #0f172a;
     color: #e2e8f0;
 }
 
-/* Navbar */
+
 .navbar {
     position: sticky;
     top: 0;
@@ -46,7 +46,7 @@ body {
     color: #38bdf8;
 }
 
-/* Hero */
+
 .hero {
     text-align: center;
     padding: 100px 20px;
@@ -73,13 +73,12 @@ body {
     font-weight: 600;
 }
 
-/* Sections */
 section {
     width: 85%;
     margin: 40px auto;
 }
 
-/* About */
+
 .about-container {
     display: flex;
     gap: 30px;
@@ -105,7 +104,7 @@ section {
     border-radius: 20px;
 }
 
-/* Projects */
+
 .projects {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -125,7 +124,7 @@ section {
     box-shadow: 0px 10px 30px rgba(0,0,0,0.5);
 }
 
-/* Resume */
+
 .resume a {
     display: inline-block;
     padding: 12px 20px;
@@ -135,12 +134,12 @@ section {
     text-decoration: none;
 }
 
-/* Contact */
+
 .contact p {
     margin: 8px 0;
 }
 
-/* Footer */
+
 footer {
     text-align: center;
     padding: 20px;
