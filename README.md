@@ -1,23 +1,25 @@
 # CODSOFT Internship Projects
 
-This repository contains all the tasks completed during my Web Development Internship at CodSoft.
+This repository contains the projects I completed during my Web Development Internship at CodSoft.
 
 ## 📌 Projects
 
 ### 1. Portfolio Website
-
-* Built using HTML & CSS
-* Includes About, Skills, Projects, Contact sections
-* Deployed using GitHub Pages
+- Built using HTML & CSS
+- Showcases my skills and projects
 
 ### 2. Landing Page
-
-* Responsive and modern UI
-* Includes Hero, Features, and Contact sections
+- Designed a modern responsive landing page
+- Focused on layout and UI design
 
 ### 3. Calculator
 - Built using HTML, CSS & JavaScript
-- Performs basic arithmetic operations
+- Supports basic arithmetic operations
+
+## 🚀 Skills Gained
+- HTML, CSS, JavaScript
+- Responsive Design
+- DOM Manipulation
 
 ## 🔗 Links
 
