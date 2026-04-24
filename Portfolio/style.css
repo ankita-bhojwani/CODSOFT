@@ -90,7 +90,7 @@ section {
     border-radius: 50%;
 }
 
-/* Skills */
+
 .skills ul {
     display: flex;
     flex-wrap: wrap;
@@ -125,14 +125,6 @@ section {
 }
 
 
-.resume a {
-    display: inline-block;
-    padding: 12px 20px;
-    background: #38bdf8;
-    color: #0f172a;
-    border-radius: 8px;
-    text-decoration: none;
-}
 
 
 .contact p {
